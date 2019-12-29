@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lb2-today</string>
+    <string name="time">time</string>
+    <string name="name">name</string>
+</resources>
